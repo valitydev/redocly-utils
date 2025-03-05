@@ -10,4 +10,4 @@ rules:
   no-empty-servers: off
 
 preprocessors:
-  local/merge-schemas: on
+  vality/merge-schemas: on
