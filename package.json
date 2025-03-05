@@ -15,5 +15,8 @@
     "url": "https://github.com/valitydev/redocly-utils/issues"
   },
   "homepage": "https://github.com/valitydev/redocly-utils#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "json-merge-patch": "^1.0.2"
+  }
 }
