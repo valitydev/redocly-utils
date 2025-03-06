@@ -1,0 +1,13 @@
+# See https://redocly.com/docs/cli/configuration/ for more information.
+extends:
+  - recommended
+
+plugins:
+  - "./plugins/merge-schemas.js"
+
+rules:
+  tag-description: off
+  no-empty-servers: off
+
+preprocessors:
+  vality/merge-schemas: on
