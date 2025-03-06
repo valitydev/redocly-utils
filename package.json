@@ -18,5 +18,9 @@
   "description": "",
   "dependencies": {
     "json-merge-patch": "^1.0.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
